@@ -1,0 +1,15 @@
+Perameles_nasuta
+Wallabia_bicolor
+Sus_scrofa
+Homo_sapiens
+Alectura_lathami
+Thylogale_stigmatica
+Bos_taurus
+Canis_familiaris
+Felis_catus
+Heteromyias_cinereifrons
+Casuarius_casuarius
+Uromys_caudimaculatus
+Megapodius_reinwardt
+Hypsiprymnodon_moschatus
+Orthonyx_spaldingii

@@ -1,0 +1,9 @@
+Perameles_nasuta
+Wallabia_bicolor
+Sus_scrofa
+Homo_sapiens
+Alectura_lathami
+Thylogale_stigmatica
+Bos_taurus
+Canis_familiaris
+Felis_catus
