@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-build_head_15.py - Fixed version
-"""
 import torch
 import torch.nn as nn
 from pathlib import Path
